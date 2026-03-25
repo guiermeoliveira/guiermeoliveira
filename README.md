@@ -1,7 +1,7 @@
 # Guilherme Oliveira 🥇  
 *Engenheiro de Software | Analista de Dados & Business Intelligence | JAVA SpringBoot, SQL, Python, GenAI | AWS*
 
-São Paulo, Brasil | [LinkedIn](https://linkedin.com/in/guilhermeoliveiras) | [GitHub](https://github.com/guiermeoliveira) | [Email](mailto:guilhermegh.go@gmail.com)
+São Paulo, Brasil | [LinkedIn](https://linkedin.com/in/guilhermeoliveiras) | [Email](mailto:guilhermegh.go@gmail.com)
 
 ## 🎯 Objetivo 
 Atuar com análise de dados no mercado financeiro, unindo conhecimentos em Compliance, prevenção à lavagem de dinheiro (PLD), produtos de investimentos e programação para gerar insights com inteligência estratégica para uma tomada de decisão eficiente e assertiva.
