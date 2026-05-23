@@ -1,10 +1,18 @@
 # Guilherme Oliveira 🥇  
-*Engenheiro de Software | Analista de Dados & Business Intelligence | JAVA SpringBoot, SQL, Python, GenAI | AWS*
+_Engenheiro de Software e Analista de Dados & Business Intelligence_
+----
+São Paulo, SP - Brasil
 
-São Paulo, Brasil | [LinkedIn](https://linkedin.com/in/guilhermeoliveiras) | [Email](mailto:guilhermegh.go@gmail.com)
+<img src="https://img.shields.io/badge/CPA--20-003366?style=flat-square&logoColor=white" alt="CPA-20" /> <img src="https://img.shields.io/badge/PQO%20Backoffice-008080?style=flat-square&logoColor=white" alt="PQO Backoffice" />
+
+<a href="https://linkedin.com/in/guilhermeoliveiras" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:guilhermegh.go@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/+5511984672182" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guiermeoliveira&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🎯 Objetivo 
-Atuar com análise de dados no mercado financeiro, unindo conhecimentos em Compliance, prevenção à lavagem de dinheiro (PLD), produtos de investimentos e programação para gerar insights com inteligência estratégica para uma tomada de decisão eficiente e assertiva.
+Atuar com Análise de dados e Tecnologia no mercado financeiro, unindo conhecimentos em **Compliance**, **_Prevenção à Lavagem de Dinheiro (PLD/FT)_**, _Produtos de investimentos e programação_ para gerar insights com inteligência estratégica para tomada decisões eficientes e assertivas.
 
 ## 🧠 Skills & Ferramentas 
 
