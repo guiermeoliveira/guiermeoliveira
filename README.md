@@ -1,6 +1,7 @@
+<img src="./img/logo2.png" alt="GHTech Logo" width=100/>
 <div align="center">
   <h1> 
-    <img src="./img/logo2.png" alt="GHTech Logo" width=150/> Guilherme Henrique de Oliveira Souza 🏅
+     Guilherme Henrique de Oliveira Souza 🏅
     <p> 
       <img src="https://img.shields.io/badge/CPA--20-003366?style=flat-square&logoColor=white" alt="CPA-20" /> 
       <img src="https://img.shields.io/badge/PQO%20Backoffice-008080?style=flat-square&logoColor=white" alt="PQO Backoffice" />  
