@@ -1,4 +1,8 @@
-<img src="./img/logo2.png" alt="GHTech Logo" width=100/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/logo3.png">
+  <source media="(prefers-color-scheme: light)" srcset="./img/logo2.png">
+  <img src="./img/logo2.png" alt="GHTech Logo" width=100/>
+</picture>
 <div align="center">
   <h1> 
      Guilherme Henrique de Oliveira Souza 🏅
